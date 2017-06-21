@@ -1,0 +1,5 @@
+c:\users\noncsi\Desktop\Sheiwa\C#\DictionaryCollections\DictionaryCollections\bin\Debug\DictionaryCollections.exe.config
+c:\users\noncsi\Desktop\Sheiwa\C#\DictionaryCollections\DictionaryCollections\bin\Debug\DictionaryCollections.exe
+c:\users\noncsi\Desktop\Sheiwa\C#\DictionaryCollections\DictionaryCollections\bin\Debug\DictionaryCollections.pdb
+c:\users\noncsi\Desktop\Sheiwa\C#\DictionaryCollections\DictionaryCollections\obj\Debug\DictionaryCollections.exe
+c:\users\noncsi\Desktop\Sheiwa\C#\DictionaryCollections\DictionaryCollections\obj\Debug\DictionaryCollections.pdb

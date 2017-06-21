@@ -1,0 +1,6 @@
+c:\users\noncsi\Desktop\Sheiwa\C#\SequentialCollections\SequentialCollections\bin\Debug\SequentialCollections.exe.config
+c:\users\noncsi\Desktop\Sheiwa\C#\SequentialCollections\SequentialCollections\bin\Debug\SequentialCollections.exe
+c:\users\noncsi\Desktop\Sheiwa\C#\SequentialCollections\SequentialCollections\bin\Debug\SequentialCollections.pdb
+c:\users\noncsi\Desktop\Sheiwa\C#\SequentialCollections\SequentialCollections\obj\Debug\SequentialCollections.csprojResolveAssemblyReference.cache
+c:\users\noncsi\Desktop\Sheiwa\C#\SequentialCollections\SequentialCollections\obj\Debug\SequentialCollections.exe
+c:\users\noncsi\Desktop\Sheiwa\C#\SequentialCollections\SequentialCollections\obj\Debug\SequentialCollections.pdb

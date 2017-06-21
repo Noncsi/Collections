@@ -1,0 +1,6 @@
+c:\users\noncsi\Desktop\Sheiwa\C#\GenericCollections\GenericCollections\bin\Debug\GenericCollections.exe.config
+c:\users\noncsi\Desktop\Sheiwa\C#\GenericCollections\GenericCollections\bin\Debug\GenericCollections.exe
+c:\users\noncsi\Desktop\Sheiwa\C#\GenericCollections\GenericCollections\bin\Debug\GenericCollections.pdb
+c:\users\noncsi\Desktop\Sheiwa\C#\GenericCollections\GenericCollections\obj\Debug\GenericCollections.csprojResolveAssemblyReference.cache
+c:\users\noncsi\Desktop\Sheiwa\C#\GenericCollections\GenericCollections\obj\Debug\GenericCollections.exe
+c:\users\noncsi\Desktop\Sheiwa\C#\GenericCollections\GenericCollections\obj\Debug\GenericCollections.pdb
